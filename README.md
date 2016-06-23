@@ -8,7 +8,6 @@ Features Needed:
   3. Administrator/Professor accounts and options.
   4. User/Student accounts and options
   5. Research wiki for students to submit, track, and log class research.
-  6. 
   
 Current Development Notes:
   1. dropbox submission software alpha and running. 
