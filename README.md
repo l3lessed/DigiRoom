@@ -25,9 +25,9 @@ Educational Digital Room
 
   2.2. Current Features 
   
-    * Basic username, password, and password reset option (None Functional)
-    * Store class, quarter, section #, and preferred e-mail (None Functional)
-    * Upload homework, catalogue uploaded homework, provide dropbox preview images of file, delete homework (None Functional)
+    * Basic username, password, and password reset option. <i>(None Functional)</I>
+    * Store class, quarter, section #, and preferred e-mail <I>(None Functional)</I>
+    * Upload homework, catalogue uploaded homework, provide dropbox preview images of file, delete homework <I>(None Functional)</I>
   
 <B>Obsolete Notes:</B> Old notes based on out dated features and discussions
 
