@@ -2,7 +2,8 @@
 Educational Digital Room
 -------------------------
 
-<b>Features Needed:</B>
+<b>Features Needed:</b> 
+
 1. php secured login and user account system.
 2. dropbox file uploading, previewing, and deleting.
 3. Administrator/Professor accounts and options.
