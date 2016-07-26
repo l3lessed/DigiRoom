@@ -30,7 +30,7 @@ Educational Digital Room
     * Store class, quarter, section #, and preferred e-mail <I>(None Functional)</I>
     * Upload homework, catalogue uploaded homework, provide dropbox preview images of file, delete homework <I>(None Functional)</I>
   
-<B>Obsolete Notes:</B> Old notes based on out dated features and discussions
+<B>Obsolete Notes:</B> Old notes based on out-dated features and discussions
 
 * java login alpha scripts compiled. Currently untested on a java enabled server. 
 * Need to move to a new server with java compatibility or upgrade my current provider.
