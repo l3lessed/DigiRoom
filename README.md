@@ -9,6 +9,8 @@ Educational Digital Room
 3. Administrator/Professor accounts and options.
 4. User/Student accounts and options
 5. Research wiki for students to submit, track, and log class research.
+6. Basic grading system (Use whole integers. No decimal systems).
+7. Simple Verification page, which allows the professor to set a classwide login code, if needed, to only allow registered students into the portal.
   
 <B>Current Development Notes:</B> Keep track of progress and features here
 
